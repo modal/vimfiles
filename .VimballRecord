@@ -1,3 +1,5 @@
 FSwitch-0.9.2.vba: call delete('C:\Program\ Files\Vim\vimfiles/plugin/fswitch.vim')|call delete('C:\Program\ Files\Vim\vimfiles/doc/fswitch.txt')
 DrawIt.vba: call delete('C:\Program\ Files\Vim\vimfiles/plugin/DrawItPlugin.vim')|call delete('C:\Program\ Files\Vim\vimfiles/plugin/cecutil.vim')|call delete('C:\Program\ Files\Vim\vimfiles/autoload/DrawIt.vim')|call delete('C:\Program\ Files\Vim\vimfiles/doc/DrawIt.txt')
 astronaut.vba: call delete('C:\Program\ Files\Vim\vimfiles/colors/astronaut.vim')
+ctags_highlighting.vba: call delete('C:\Program\ Files\Vim\vimfiles/plugin/ctags_highlighting.vim')|call delete('C:\Program\ Files\Vim\vimfiles/mktypes.py')|call delete('C:\Program\ Files\Vim\vimfiles/extra_source/mktypes/setup.py')|call delete('C:\Program\ Files\Vim\vimfiles/doc/ctags_highlighting.txt')
+colourscheme_bandit.vba: call delete('C:\Program\ Files\Vim\vimfiles/colors/bandit.vim')|call delete('C:\Program\ Files\Vim\vimfiles/syntax/colours_bandit.vim')|call delete('C:\Program\ Files\Vim\vimfiles/ftplugin/colours_bandit.vim')
