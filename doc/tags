@@ -145,6 +145,12 @@ EasyGrep_OptionsSummary	EasyGrep.txt	/*EasyGrep_OptionsSummary*
 FSReturnCompanionFilenameString()	fswitch.txt	/*FSReturnCompanionFilenameString()*
 FSReturnReadableCompanionFilename()	fswitch.txt	/*FSReturnReadableCompanionFilename()*
 FSwitch()	fswitch.txt	/*FSwitch()*
+HGRAuthor	hgrev.txt	/*HGRAuthor*
+HGRev	hgrev.txt	/*HGRev*
+HGRevContents	hgrev.txt	/*HGRevContents*
+HGRevIntro	hgrev.txt	/*HGRevIntro*
+HGRevLicense	hgrev.txt	/*HGRevLicense*
+HGRevOptions	hgrev.txt	/*HGRevOptions*
 MatchError	matchit.txt	/*MatchError*
 NERDTree	NERD_tree.txt	/*NERDTree*
 NERDTree-?	NERD_tree.txt	/*NERDTree-?*
@@ -428,7 +434,12 @@ fswitch_reg	fswitch.txt	/*fswitch_reg*
 fswitch_rel	fswitch.txt	/*fswitch_rel*
 g%	matchit.txt	/*g%*
 g:drawit_insertmode	DrawIt.txt	/*g:drawit_insertmode*
+g:hgrevAddStatus	hgrev.txt	/*g:hgrevAddStatus*
+g:hgrevAutoUpdate	hgrev.txt	/*g:hgrevAutoUpdate*
+g:hgrevFlags	hgrev.txt	/*g:hgrevFlags*
+g:hgrevNoRepoChar	hgrev.txt	/*g:hgrevNoRepoChar*
 global-example	yankring.txt	/*global-example*
+hgrev.txt	hgrev.txt	/*hgrev.txt*
 matchit	matchit.txt	/*matchit*
 matchit-%	matchit.txt	/*matchit-%*
 matchit-\1	matchit.txt	/*matchit-\\1*

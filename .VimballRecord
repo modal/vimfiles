@@ -3,3 +3,4 @@ DrawIt.vba: call delete('C:\Program\ Files\Vim\vimfiles/plugin/DrawItPlugin.vim'
 astronaut.vba: call delete('C:\Program\ Files\Vim\vimfiles/colors/astronaut.vim')
 ctags_highlighting.vba: call delete('C:\Program\ Files\Vim\vimfiles/plugin/ctags_highlighting.vim')|call delete('C:\Program\ Files\Vim\vimfiles/mktypes.py')|call delete('C:\Program\ Files\Vim\vimfiles/extra_source/mktypes/setup.py')|call delete('C:\Program\ Files\Vim\vimfiles/doc/ctags_highlighting.txt')
 colourscheme_bandit.vba: call delete('C:\Program\ Files\Vim\vimfiles/colors/bandit.vim')|call delete('C:\Program\ Files\Vim\vimfiles/syntax/colours_bandit.vim')|call delete('C:\Program\ Files\Vim\vimfiles/ftplugin/colours_bandit.vim')
+hgrev.vba: call delete('C:\Program\ Files\Vim\vimfiles/plugin/hgrev.vim')|call delete('C:\Program\ Files\Vim\vimfiles/doc/hgrev.txt')
