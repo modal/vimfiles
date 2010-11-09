@@ -1,4 +1,4 @@
-" Vim color file -- Luinnar
+" Vim color file -- Mizore
 " Maintainer: Luinnar
 " Last Change: 09-Nov-2010
 
@@ -9,7 +9,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name="luinnar"
+let g:colors_name="mizore"
 
 let save_cpo = &cpo
 set cpo&vim
@@ -79,7 +79,7 @@ hi WarningMsg   guifg=#ccae22 ctermfg=yellow    guibg=#000000 ctermbg=black  gui
 
 " syntax highlighting groups (:help group-name)
 
-hi Comment      guifg=#b0b010  ctermfg=brown       guibg=#000000 ctermbg=black
+hi Comment      guifg=#b0b0b0  ctermfg=gray       guibg=#000000 ctermbg=black
 hi Keyword      guifg=#ffffff  ctermfg=white       guibg=#000000 ctermbg=black
 hi Statement    guifg=#ffffff  ctermfg=white       guibg=#000000 ctermbg=black  gui=bold cterm=bold 
 hi StorageClass guifg=#b0ffb0  ctermfg=white       guibg=#000000 ctermbg=black  gui=bold cterm=NONE
@@ -93,10 +93,10 @@ hi Error        guifg=#ffffff  ctermfg=white       guibg=#ff0000 ctermbg=red
 hi Function     guifg=#2080ff  ctermfg=blue        guibg=#000000 ctermbg=black
 hi Underlined   guifg=#80a0ff  ctermfg=cyan        guibg=#000000 ctermbg=black  gui=underline cterm=underline
 hi Ignore       guifg=#888888  ctermfg=darkgray    guibg=#000000 ctermbg=black
-hi Constant     guifg=#00ff20  ctermfg=green       guibg=#000000 ctermbg=black
-hi Number       guifg=#00ff20  ctermfg=green       guibg=#000000 ctermbg=black
-hi PreProc      guifg=#00b000  ctermfg=darkgreen   guibg=#000000 ctermbg=black
-hi Macro        guifg=#00b000  ctermfg=darkgreen   guibg=#000000 ctermbg=black
-hi Special      guifg=#ffff00  ctermfg=yellow      guibg=#000000 ctermbg=black
+hi Constant     guifg=#e080ff  ctermfg=magenta       guibg=#000000 ctermbg=black
+hi Number       guifg=#e080ff  ctermfg=magenta       guibg=#000000 ctermbg=black
+hi PreProc      guifg=#8070ff  ctermfg=darkmagenta   guibg=#000000 ctermbg=black
+hi Macro        guifg=#8070ff  ctermfg=darkmagenta   guibg=#000000 ctermbg=black
+hi Special      guifg=#ff40ff  ctermfg=magenta       guibg=#000000 ctermbg=black
 
 let &cpo = save_cpo
